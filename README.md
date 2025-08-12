@@ -16,6 +16,10 @@ The site uses the **Pixabay API** to fetch high-quality travel photos and includ
 
 ---
 
+## 🌍 Live Demo
+
+https://sarikkkaaaaa.github.io/travel-moodboard/
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure
